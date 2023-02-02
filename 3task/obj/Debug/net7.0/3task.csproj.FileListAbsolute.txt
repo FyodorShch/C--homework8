@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\homework8\3task\bin\Debug\net7.0\3task.exe
+D:\GeekBrains\C#\homework8\3task\bin\Debug\net7.0\3task.deps.json
+D:\GeekBrains\C#\homework8\3task\bin\Debug\net7.0\3task.runtimeconfig.json
+D:\GeekBrains\C#\homework8\3task\bin\Debug\net7.0\3task.dll
+D:\GeekBrains\C#\homework8\3task\bin\Debug\net7.0\3task.pdb
+D:\GeekBrains\C#\homework8\3task\obj\Debug\net7.0\3task.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\homework8\3task\obj\Debug\net7.0\3task.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\homework8\3task\obj\Debug\net7.0\3task.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\homework8\3task\obj\Debug\net7.0\3task.AssemblyInfo.cs
+D:\GeekBrains\C#\homework8\3task\obj\Debug\net7.0\3task.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\homework8\3task\obj\Debug\net7.0\3task.dll
+D:\GeekBrains\C#\homework8\3task\obj\Debug\net7.0\refint\3task.dll
+D:\GeekBrains\C#\homework8\3task\obj\Debug\net7.0\3task.pdb
+D:\GeekBrains\C#\homework8\3task\obj\Debug\net7.0\3task.genruntimeconfig.cache
+D:\GeekBrains\C#\homework8\3task\obj\Debug\net7.0\ref\3task.dll

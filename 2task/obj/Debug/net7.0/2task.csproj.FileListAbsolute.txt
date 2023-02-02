@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\homework8\2task\bin\Debug\net7.0\2task.exe
+D:\GeekBrains\C#\homework8\2task\bin\Debug\net7.0\2task.deps.json
+D:\GeekBrains\C#\homework8\2task\bin\Debug\net7.0\2task.runtimeconfig.json
+D:\GeekBrains\C#\homework8\2task\bin\Debug\net7.0\2task.dll
+D:\GeekBrains\C#\homework8\2task\bin\Debug\net7.0\2task.pdb
+D:\GeekBrains\C#\homework8\2task\obj\Debug\net7.0\2task.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\homework8\2task\obj\Debug\net7.0\2task.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\homework8\2task\obj\Debug\net7.0\2task.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\homework8\2task\obj\Debug\net7.0\2task.AssemblyInfo.cs
+D:\GeekBrains\C#\homework8\2task\obj\Debug\net7.0\2task.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\homework8\2task\obj\Debug\net7.0\2task.dll
+D:\GeekBrains\C#\homework8\2task\obj\Debug\net7.0\refint\2task.dll
+D:\GeekBrains\C#\homework8\2task\obj\Debug\net7.0\2task.pdb
+D:\GeekBrains\C#\homework8\2task\obj\Debug\net7.0\2task.genruntimeconfig.cache
+D:\GeekBrains\C#\homework8\2task\obj\Debug\net7.0\ref\2task.dll
